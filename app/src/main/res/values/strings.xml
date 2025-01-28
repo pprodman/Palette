@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Palette</string>
+    <string name="tran_image">transition_image</string>
+</resources>
