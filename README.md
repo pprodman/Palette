@@ -2,7 +2,7 @@
 # Palette App
 
 ## Descripción
-Aplicación Android que muestra una lista de imágenes en un `RecyclerView` y permite seleccionar una para extraer su paleta de colores mediante la biblioteca `Palette`.
+Aplicación **Android** que muestra una lista de imágenes en un `RecyclerView` y permite seleccionar una para extraer su paleta de colores mediante la biblioteca `Palette`.
 
 ## Características
 
