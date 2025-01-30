@@ -59,6 +59,7 @@ fun testPaletteColorExtraction() {
     assertNotNull(palette)
 }
 ```
+---
 
 ### Herramientas Recomendadas
 - Espresso para pruebas de UI.
