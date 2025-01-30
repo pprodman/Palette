@@ -3,6 +3,7 @@
 
 ## Objetivo
 Validar la correcta comunicación e interacción entre los diferentes componentes de la aplicación, asegurando que las actividades, adaptadores y transiciones funcionen sin errores.
+
 ---
 ## Casos de Prueba
 ### 1. Comunicación entre `MainActivity` y `PaletteActivity`
