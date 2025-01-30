@@ -2,7 +2,7 @@
 # Documentación del Proyecto
 
 ## 📌 Descripción
-Este documento detalla la estructura del código del proyecto **CoffeeShop**, incluyendo las clases principales, su ubicación en el paquete y sus métodos esenciales.
+Este documento detalla la estructura del código del proyecto **Palette**, incluyendo las clases principales, su ubicación en el paquete y sus métodos esenciales.
 
 ---
 
