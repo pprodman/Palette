@@ -4,7 +4,6 @@
 ## Objetivo
 Validar la correcta comunicación e interacción entre los diferentes componentes de la aplicación, asegurando que las actividades, adaptadores y transiciones funcionen sin errores.
 
----
 ## Casos de Prueba
 ### 1. Comunicación entre `MainActivity` y `PaletteActivity`
 - **Escenario**: El usuario selecciona una imagen en `MainActivity` y se abre `PaletteActivity`.
@@ -25,7 +24,6 @@ fun testNavigationToPaletteActivity() {
     intended(hasComponent(PaletteActivity::class.java.name))
 }
 ```
----
 
 ### 2. Integración de `RecyclerView` con `CardsAdapter`
 - **Escenario**: `RecyclerView` debe mostrar todas las imágenes correctamente.
@@ -41,7 +39,6 @@ fun testRecyclerViewDisplaysItems() {
     onView(withId(R.id.recview)).check(matches(hasMinimumChildCount(1)))
 }
 ```
----
 
 ### 3. Validación de `Palette` en `PaletteActivity`
 - **Escenario**: `PaletteActivity` extrae los colores de la imagen seleccionada.
@@ -59,7 +56,6 @@ fun testPaletteColorExtraction() {
     assertNotNull(palette)
 }
 ```
----
 
 ### Herramientas Recomendadas
 - Espresso para pruebas de UI.
