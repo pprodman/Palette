@@ -33,7 +33,7 @@ fun testNavigationToPaletteActivity() {
   - Asegurar que `onBindViewHolder()` asigna correctamente las imágenes.
   - Probar el evento `onClick` de cada imagen y su interacción con `PaletteActivity`.
 - **Resultado esperado**: Todas las imágenes deben mostrarse correctamente y responder al clic sin errores.
-  ```kotlin
+```kotlin
 @Test
 fun testRecyclerViewDisplaysItems() {
     onView(withId(R.id.recview)).check(matches(isDisplayed()))
