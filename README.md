@@ -1,10 +1,10 @@
 
-# Palette App
+# Palette App 🎨
 
-## Descripción
+## 📌 Descripción
 Aplicación **Android** que muestra una lista de imágenes en un `RecyclerView` y permite seleccionar una para extraer su paleta de colores mediante la biblioteca `Palette`.
 
-## Características
+## 🚀 Características
 
 - `RecyclerView` con imágenes.
 
@@ -14,10 +14,10 @@ Aplicación **Android** que muestra una lista de imágenes en un `RecyclerView` 
 
 - Diseño optimizado para fluidez y rendimiento.
 
-## Documentación
+## 📂 Documentación
 - [Documentación](./DOCUMENTACION.md) 📖: Documentación del proyecto Palette.
 
-## Estrategias de Pruebas
+## 🏗️ Estrategias de Pruebas
 Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplicación de imágenes en Android, asegurando su correcto funcionamiento bajo diferentes escenarios.
 
 - [Pruebas de Integración](./PRUEBAS_INTEGRACION.md)
@@ -26,7 +26,7 @@ Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplica
 - [Pruebas de Seguridad](./PRUEBAS_SEGURIDAD.md)
 - [Pruebas de Uso](./PRUEBAS_USO.md)
 
-## Requisitos
+## 🛠️ Requisitos
 
 - Android Studio Arctic Fox o superior.
 
@@ -34,7 +34,7 @@ Definir un plan de pruebas para garantizar la calidad y rendimiento de la aplica
 
 - Dispositivo/emulador con Android 5.0+.
 
-## Instalación y Uso
+## 📝 Instalación y Uso
 
 - Clona el repositorio: git clone https://github.com/pprodman/Palette.git
 
