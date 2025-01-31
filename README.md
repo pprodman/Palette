@@ -4,7 +4,7 @@
 ## 📌 Descripción
 Aplicación **Android** que muestra una lista de imágenes en un `RecyclerView` y permite seleccionar una para extraer su paleta de colores mediante la biblioteca `Palette`.
 
-🎥 [Ver video en Youtube](https://www.youtube.com/shorts/mrcvX08uODA)
+🎥 [Ver video en Youtube](https://www.youtube.com/shorts/FS_hEp7hPNE)
 
 ## 🚀 Características
 - `RecyclerView` con imágenes.
