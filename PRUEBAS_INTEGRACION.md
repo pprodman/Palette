@@ -1,7 +1,7 @@
 
-# Pruebas de Integración
+# 🧪 Pruebas de Integración
 
-## Objetivo
+## 🎯 Objetivo
 Validar la correcta comunicación e interacción entre los diferentes componentes de la aplicación, asegurando que las actividades, adaptadores y transiciones funcionen sin errores.
 
 ## Casos de Prueba
