@@ -11,6 +11,7 @@ Identificar vulnerabilidades en la aplicación y asegurar que los datos y la nav
   - Probar envíos de datos maliciosos en los `Intents`.
   - Validar que los datos son correctamente sanitizados.
 - Resultado esperado: La aplicación debe rechazar entradas maliciosas.
+```kotlin
 @Test
 fun testIntentDataSanitization() {
     val intent = Intent(ApplicationProvider.getApplicationContext(), PaletteActivity::class.java)
