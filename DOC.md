@@ -4,12 +4,12 @@
 # **Documentación Técnica de la Aplicación**
 
 ## Índice
-1. [Descripción del Proyecto](#1.descripción-del-proyecto)
-2. [Arquitectura utilizada](#arquitectura-utilizada)
-3. [Diagrama de Clases y Estructura del Código](#diagrama-de-clases-y-estructura-del-código)
-4. [Explicación de la Interfaz y Adaptación a Diferentes Pantallas](#explicación-de-la-interfaz-y-adaptación-a-diferentes-pantallas)
-5. [Guía de Instalación para Otros Desarrolladores](#guía-de-instalación-para-otros-desarrolladores)
-6. [Changelog con Mejoras y Versiones](#changelog-con-mejoras-y-versiones)
+1. [Descripción del Proyecto](#1-descripción-del-proyecto)
+2. [Arquitectura utilizada](#2-arquitectura-utilizada)
+3. [Diagrama de Clases y Estructura del Código](#3-diagrama-de-clases-y-estructura-del-código)
+4. [Explicación de la Interfaz y Adaptación a Diferentes Pantallas](#4-explicación-de-la-interfaz-y-adaptación-a-diferentes-pantallas)
+5. [Guía de Instalación para Otros Desarrolladores](#5-guía-de-instalación-para-otros-desarrolladores)
+6. [Changelog con Mejoras y Versiones](#6-changelog-con-mejoras-y-versiones)
 
 ## **1. Descripción del Proyecto**
 
