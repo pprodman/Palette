@@ -131,19 +131,19 @@ La interfaz está diseñada siguiendo los principios de **Material Design** para
 ## **6. Changelog con Mejoras y Versiones**
 
 ### **Versión 1.0.0**
-- **Fecha:** [Fecha de lanzamiento]
+- **Fecha:** [01-01-2025]
 - **Descripción:**
   - Versión inicial de la aplicación.
   - Funcionalidades principales implementadas: lista de imágenes, generación de paletas y transiciones compartidas.
 
 ### **Versión 1.1.0**
-- **Fecha:** [Fecha de actualización]
+- **Fecha:** [01-02-2025]
 - **Mejoras:**
   - Optimización del rendimiento en dispositivos de baja gama.
   - Corrección de errores menores en la interfaz.
 
 ### **Versión 1.2.0**
-- **Fecha:** [Fecha de actualización]
+- **Fecha:** [01-03-2025]
 - **Mejoras:**
   - Implementación de Material You para diseño dinámico.
   - Soporte para tablets y pantallas grandes.
