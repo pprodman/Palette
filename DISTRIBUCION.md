@@ -1,5 +1,11 @@
 # Distribución del Proyecto
 
+## Índice
+1. [Configurar el Proyecto para Distribución](#1-configurar-el-proyecto-para-distribución)
+2. [Probar la Instalación del Paquete](#2-probar-la-instalación-del-paquete)
+
+---
+
 ## **1. Configurar el Proyecto para Distribución**
 
 ### **a) Generar un APK y un AAB Firmado con una Clave de Desarrollador**
