@@ -10,6 +10,8 @@
 4. [Explicación de la Interfaz y Adaptación a Diferentes Pantallas](#4-explicación-de-la-interfaz-y-adaptación-a-diferentes-pantallas)
 5. [Guía de Instalación para Otros Desarrolladores](#5-guía-de-instalación-para-otros-desarrolladores)
 6. [Changelog con Mejoras y Versiones](#6-changelog-con-mejoras-y-versiones)
+7. [Pruebas y Rendimiento](#7-pruebas-y-rendimiento)
+8. [Distribución de la Aplicación](#7-distribución-de-la-aplicación)
 
 ## **1. Descripción del Proyecto**
 
@@ -149,3 +151,16 @@ La interfaz está diseñada siguiendo los principios de **Material Design** para
 
 ---
 
+## **7. Pruebas y Rendimiento**
+
+- [Pruebas y Rendimiento](./TEST.md) 📖: Pruebas de código y de rendimiento de la aplicación.
+
+
+---
+
+## **8. Distribución de la Aplicación**
+
+- [Guia de distribución](./DISTRIBUCION.md) 📖: Proporciona instrucciones para la distribución de la aplicación.
+
+
+---
