@@ -149,5 +149,3 @@ La interfaz está diseñada siguiendo los principios de **Material Design** para
 
 ---
 
-### **Conclusión**
-Esta documentación proporciona una visión completa de la aplicación **Palette**, desde su arquitectura hasta su instalación y mantenimiento. Si necesitas más detalles o tienes preguntas adicionales, no dudes en contactarme. ¡Gracias por revisar esta documentación! 🚀
