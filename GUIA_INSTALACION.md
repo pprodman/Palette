@@ -2,9 +2,9 @@
 # Guía de Instalación para Desarrolladores
 
 ## Índice
-1. [Requisitos Previos](#1.requisitos-previos)
-2. [Pasos para Configurar el Proyecto](#2.pasos-para-configurar-el-proyecto)
-3. [Resolución de Problemas Comunes](#3.resolución-de-problemas-comunes)
+1. [Requisitos Previos](#1-requisitos-previos)
+2. [Pasos para Configurar el Proyecto](#2-pasos-para-configurar-el-proyecto)
+3. [Resolución de Problemas Comunes](#3-resolución-de-problemas-comunes)
 4. [Estructura del Proyecto](#4-estructura-del-proyecto)
 
 ## **1. Requisitos Previos**
